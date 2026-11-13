@@ -1,0 +1,5 @@
+streamlit==1.67.0
+torch==2.15.0
+numpy==2.4.6
+pillow==13.0.0
+scikit-image==0.26.0

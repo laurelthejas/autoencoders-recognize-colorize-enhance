@@ -1,0 +1,21 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Weights, data and generated files stay out of git
+weights/
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.bin
+data/
+autoencoder_runs/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
