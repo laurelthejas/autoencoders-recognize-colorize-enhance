@@ -132,5 +132,5 @@ MIT: see [LICENSE](LICENSE). [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.h
 
 ## 🔗 Related projects
 
-- [🎨 Diffusion Models: Image Generation and Captioning](https://github.com/laurelthejas/diffusion-models-image-generation-and-captioning): fine-tunes Stable Diffusion for text-to-image and image-to-image, and trains a small text-to-image diffusion model from scratch on Fashion-MNIST.
-- [📖🖋️ C-Caption Transformer](https://github.com/laurelthejas/c-caption-transformer): a small transformer that learns from scratch to write and explain simple C programs.
+- [🎨 Diffusion Models: Image Generation and Captioning](https://github.com/laurelthejas/diffusion-models-image-generation-and-captioning): fine-tunes Stable Diffusion for text-to-image and image-to-image, and trains a text-to-image diffusion model from scratch on Fashion-MNIST.
+- [📖🖋️ C-Caption Transformer](https://github.com/laurelthejas/c-caption-transformer): a decoder-only transformer built and trained from scratch that writes short C programs from English captions, with a plan and an explanation.
